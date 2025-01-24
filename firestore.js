@@ -92,4 +92,3 @@ async function initializeDatabase() {
 
 // Exécuter l'initialisation
 initializeDatabase();
-
